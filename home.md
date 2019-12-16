@@ -1,4 +1,4 @@
 ## Pick your concert
 ---
-#### [Travis Scott](travis-scott)
-#### [Logic](travis-scott/choice.md)
+#### [Travis Scott](situation/choice-travis.md)
+#### [Logic](situations/choice.md)
