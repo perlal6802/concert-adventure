@@ -1,5 +1,5 @@
-Cool! Now that you've choosen to go to Logics' concert you now must decide how you will spend your night.
-
+Cool! Now that you've choosen to go to logic's concert you're unsure if you want a spot in the front lower level or in the
+back higher level rows.  
 
 #### [General admission](general-admission.md)
 #### [Higher level](hihher-level.md)
