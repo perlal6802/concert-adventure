@@ -2,4 +2,5 @@ Now that you're ready to rage with Travis Scott, you have to pick the type of ad
 
 Please choose the type of night you'd like 
 [A bit of rage](higher-level.md)
+
 [***FULL RAGE***](general-admission.md)
