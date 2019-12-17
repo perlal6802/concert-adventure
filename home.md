@@ -1,5 +1,5 @@
 ## Pick your concert
 ---
 #### [Travis Scott](travis-scott/choice-laflame.md)
-#### [Logic]
+#### [Logic](logic/choice-bobby.md)
 
